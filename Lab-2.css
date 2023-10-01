@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+canvas { 
+    background-color: aquamarine;
+    display: block;
+    margin: auto;
+    text-align: center;
+ }
